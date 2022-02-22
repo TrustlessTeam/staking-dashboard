@@ -1047,10 +1047,10 @@ export default {
 }
     
 .action-modal {
-position: fixed;
-left: 50%;
-top: 50%;
-transform: translate(-50%, -50%);
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
   
   width: 90%;
   min-width: 250px;
